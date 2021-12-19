@@ -1,5 +1,5 @@
 {
-  "name": "auth-check-sample",
+  "name": "nextjs-auth-check-sample",
   "private": true,
   "scripts": {
     "dev": "next dev",

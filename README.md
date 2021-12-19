@@ -32,3 +32,28 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+---
+
+## References
+
+- [Next.js Project Structure - Yannick Wittwer](https://wityan.medium.com/next-js-project-structure-1531610bed71)
+  - About structure of Next.js project
+- [React Context の使い方 - Qiita](https://qiita.com/ryokkkke/items/dc25111fcf52ea579d58)
+  - About React context basic
+- [TypeScript & Context API の defaultValue の書き方（use\*\*\*がうまく機能しない時） - Zenn.dev](https://zenn.dev/hiro4hiro4/articles/a19d1f5c9b6eab)
+  - About default value of createContext
+- [React Context で useReducer を使ってみる - Qiita](https://qiita.com/Arata0608/items/559cbd4d995969110ead)
+- [React Hooks(useState | useReducer) + Typescript でサンプル Web アプリ - Qiita](https://qiita.com/makishy/items/bb014073d6e494b1b35f)
+  - About reducer and context
+- [React でシンプルな DI を行う- Qiita](https://qiita.com/mozisan/items/0a0afb79ea8d4cfeb386)
+  - About Dependency Injection
+- [next/router - Next](https://nextjs.org/docs/api-reference/next/router)
+  - About routing
+- [vercel/next.js#6713](https://github.com/vercel/next.js/issues/6713)
+  - About router usage
+- [useReducer instead of useState while calling APIs! - Dev Community](https://dev.to/ms_yogii/usereducer-instead-of-usestate-while-calling-apis-3e1l)
+  - About api calling reducer
+- [「なぜ enum の利用が推奨されないのか？」をまとめてみた - Qiita](https://qiita.com/saba_can00/items/696baa5337eb10c37342)
+- [悪名高い TypeScript の enum なしで Action を定義する - Qiita](https://qiita.com/hannnmm/items/0fcd00fca700f660fefc)
+  - About enum of type script(and Union type)
